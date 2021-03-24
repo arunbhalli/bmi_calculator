@@ -1,0 +1,10 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "arunbhalli <tomarbhalli.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
